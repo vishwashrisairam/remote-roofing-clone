@@ -2,7 +2,7 @@
     <!-- <div class="row"> -->
         
         <div class="row">
-        <div class="col-lg-6 col-sm-12 col-md-12">
+        <div class="col-lg-6 col-sm-12 col-md-7">
         <div class="address-form">
         <form 
             action="" 
@@ -21,24 +21,7 @@
                 class="image"
             >
             </div>
-            <!-- </div> -->
-            <!-- <div class="col-lg-6 col-sm-6"> -->
-            <!-- <input 
-                type="text"
-                v-model="address"
-                name="address"
-                id="address"
-                placeholder="Enter Your Address"
-                maxlength="256"
-                autocomplete="off" 
-                class="form-control input-field"
-                @input="suggestions"
-            />
-            <ul class="dropdown-menu" style="width:100%">
-                <li v-for="suggestion in options" :key="suggestion.id">
-                    {{ suggestion.description }}
-                </li>
-            </ul> -->
+            
             <div class="form-group flex-fill">
             <vue-google-autocomplete
                 id="map"
@@ -105,7 +88,6 @@ export default {
     }
 }
 
-// AIzaSyB8CzZtr8joEPLLol7fKNALlUNQGhNXkZE 
 </script>
 
 

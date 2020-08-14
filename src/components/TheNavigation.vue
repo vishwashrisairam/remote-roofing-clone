@@ -1,5 +1,6 @@
 <template>
   <div :class = "isFaq?'header-faq':'header'">
+    <div class="container">
     <div class="top-header">
       <div class="pull-left">
         <router-link to="/">
@@ -57,7 +58,7 @@
     </div>
 
     
-
+  </div>
   </div>
 </template>
 

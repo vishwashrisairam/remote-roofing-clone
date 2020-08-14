@@ -1,0 +1,236 @@
+{
+    "predictions": [
+       {
+          "description": "Richardson, TX, USA",
+          "id": "bd6272adb489669ddbf4bd9b446ff29cb13dfe37",
+          "matched_substrings": [
+             {
+                "length": 4,
+                "offset": 0
+             }
+          ],
+          "place_id": "ChIJZ6e-eekeTIYRlQQnRsAp2yw",
+          "reference": "ChIJZ6e-eekeTIYRlQQnRsAp2yw",
+          "structured_formatting": {
+             "main_text": "Richardson",
+             "main_text_matched_substrings": [
+                {
+                   "length": 4,
+                   "offset": 0
+                }
+             ],
+             "secondary_text": "TX, USA"
+          },
+          "terms": [
+             {
+                "offset": 0,
+                "value": "Richardson"
+             },
+             {
+                "offset": 12,
+                "value": "TX"
+             },
+             {
+                "offset": 16,
+                "value": "USA"
+             }
+          ],
+          "types": [
+             "locality",
+             "political",
+             "geocode"
+          ]
+       },
+       {
+          "description": "Dallas College Richland Campus, Abrams Road, Dallas, TX, USA",
+          "id": "c978fafddfc76ab1bc9c2c0154cc3e7f5a7eb5a7",
+          "matched_substrings": [
+             {
+                "length": 4,
+                "offset": 15
+             }
+          ],
+          "place_id": "ChIJcYE7apUfTIYRUohIJ0plNVU",
+          "reference": "ChIJcYE7apUfTIYRUohIJ0plNVU",
+          "structured_formatting": {
+             "main_text": "Dallas College Richland Campus",
+             "main_text_matched_substrings": [
+                {
+                   "length": 4,
+                   "offset": 15
+                }
+             ],
+             "secondary_text": "Abrams Road, Dallas, TX, USA"
+          },
+          "terms": [
+             {
+                "offset": 0,
+                "value": "Dallas College Richland Campus"
+             },
+             {
+                "offset": 32,
+                "value": "Abrams Road"
+             },
+             {
+                "offset": 45,
+                "value": "Dallas"
+             },
+             {
+                "offset": 53,
+                "value": "TX"
+             },
+             {
+                "offset": 57,
+                "value": "USA"
+             }
+          ],
+          "types": [
+             "university",
+             "university",
+             "school",
+             "point_of_interest",
+             "establishment"
+          ]
+       },
+       {
+          "description": "Richardson Bike Mart, West Campbell Road, Richardson, TX, USA",
+          "matched_substrings": [
+             {
+                "length": 4,
+                "offset": 0
+             }
+          ],
+          "place_id": "ChIJb6ypu_MhTIYRh2hE3iZpiyM",
+          "reference": "ChIJb6ypu_MhTIYRh2hE3iZpiyM",
+          "structured_formatting": {
+             "main_text": "Richardson Bike Mart",
+             "main_text_matched_substrings": [
+                {
+                   "length": 4,
+                   "offset": 0
+                }
+             ],
+             "secondary_text": "West Campbell Road, Richardson, TX, USA"
+          },
+          "terms": [
+             {
+                "offset": 0,
+                "value": "Richardson Bike Mart"
+             },
+             {
+                "offset": 22,
+                "value": "West Campbell Road"
+             },
+             {
+                "offset": 42,
+                "value": "Richardson"
+             },
+             {
+                "offset": 54,
+                "value": "TX"
+             },
+             {
+                "offset": 58,
+                "value": "USA"
+             }
+          ],
+          "types": [
+             "bicycle_store",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ]
+       },
+       {
+          "description": "Richland Hills, TX, USA",
+          "id": "2d07fbc65f2179c0633d771a98f8632b896a56cf",
+          "matched_substrings": [
+             {
+                "length": 4,
+                "offset": 0
+             }
+          ],
+          "place_id": "ChIJW0AcEKR5ToYRbZOrp0s8jfQ",
+          "reference": "ChIJW0AcEKR5ToYRbZOrp0s8jfQ",
+          "structured_formatting": {
+             "main_text": "Richland Hills",
+             "main_text_matched_substrings": [
+                {
+                   "length": 4,
+                   "offset": 0
+                }
+             ],
+             "secondary_text": "TX, USA"
+          },
+          "terms": [
+             {
+                "offset": 0,
+                "value": "Richland Hills"
+             },
+             {
+                "offset": 16,
+                "value": "TX"
+             },
+             {
+                "offset": 20,
+                "value": "USA"
+             }
+          ],
+          "types": [
+             "locality",
+             "political",
+             "geocode"
+          ]
+       },
+       {
+          "description": "Richardson High School, West Belt Line Road, Richardson, TX, USA",
+          "matched_substrings": [
+             {
+                "length": 4,
+                "offset": 0
+             }
+          ],
+          "place_id": "ChIJD3VIDMUhTIYRXyp3O8zwx3o",
+          "reference": "ChIJD3VIDMUhTIYRXyp3O8zwx3o",
+          "structured_formatting": {
+             "main_text": "Richardson High School",
+             "main_text_matched_substrings": [
+                {
+                   "length": 4,
+                   "offset": 0
+                }
+             ],
+             "secondary_text": "West Belt Line Road, Richardson, TX, USA"
+          },
+          "terms": [
+             {
+                "offset": 0,
+                "value": "Richardson High School"
+             },
+             {
+                "offset": 24,
+                "value": "West Belt Line Road"
+             },
+             {
+                "offset": 45,
+                "value": "Richardson"
+             },
+             {
+                "offset": 57,
+                "value": "TX"
+             },
+             {
+                "offset": 61,
+                "value": "USA"
+             }
+          ],
+          "types": [
+             "secondary_school",
+             "school",
+             "point_of_interest",
+             "establishment"
+          ]
+       }
+    ],
+    "status": "OK"
+ }
